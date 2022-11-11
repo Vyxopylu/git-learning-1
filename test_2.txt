@@ -1,1 +1,2 @@
 Some information to test user
+and another information
